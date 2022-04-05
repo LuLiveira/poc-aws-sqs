@@ -1,0 +1,6 @@
+[submodule "poc-aws-sqs-with-spring"]
+	path = poc-aws-sqs-with-spring
+	url = http://github.com/LuLiveira/poc-aws-sqs-with-spring
+[submodule "poc-aws-sqs-without-spring"]
+	path = poc-aws-sqs-without-spring
+	url = http://github.com/LuLiveira/poc-aws-sqs-without-spring
